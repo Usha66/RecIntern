@@ -1,4 +1,4 @@
-# 🧠 RecIntern — Intelligent Internship & Job Recommendation System  
+# RecIntern — Intelligent Internship Recommendation System  
   
 **RecIntern** is an AI-powered system designed to recommend internships and job opportunities that best match a user’s skills and interests.  
 The project uses **web scraping**, **machine learning**, and **NLP-based matching** to collect and analyze real-world data from multiple job portals.
@@ -42,6 +42,3 @@ The project uses **web scraping**, **machine learning**, and **NLP-based matchin
    - Displays top 50 most relevant opportunities with links to apply.  
 
 ---
- 
-   ```bash
-   python scraper.py
